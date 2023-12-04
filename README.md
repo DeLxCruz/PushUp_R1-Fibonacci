@@ -14,4 +14,4 @@ Escribe un programa que tome un entero como entrada y determine si es un número
 
 Escribe un programa que muestre los primeros `m` números de Fibonacci, donde `m` es un número introducido por el usuario.
 
-Para ejecutar el ejercicio deseado, descomente la línea de código correspondiente en el fichero `program`. Por defecto, el primer ejercicio se encuentra descomentado y los otros dos comentados.
+Para ejecutar el ejercicio deseado, ejecute en la consola el siguiente comando `dotnet run`. Esto le mostrará un Menú con las opciones para que ejecuten los ejercicios, de acuerdo a la opción seleccionada.
