@@ -12,3 +12,4 @@ C:\Users\user\Documents\DeLxCruz\PushUps\Lógica\Fibonacci\obj\Debug\net8.0\refi
 C:\Users\user\Documents\DeLxCruz\PushUps\Lógica\Fibonacci\obj\Debug\net8.0\Fibonacci.pdb
 C:\Users\user\Documents\DeLxCruz\PushUps\Lógica\Fibonacci\obj\Debug\net8.0\Fibonacci.genruntimeconfig.cache
 C:\Users\user\Documents\DeLxCruz\PushUps\Lógica\Fibonacci\obj\Debug\net8.0\ref\Fibonacci.dll
+C:\Users\user\Documents\DeLxCruz\PushUps\Lógica\Fibonacci\obj\Debug\net8.0\Fibonacci.sourcelink.json
